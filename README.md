@@ -76,10 +76,10 @@ If you want to contribute to this project, follow these steps:
 
 **Credits**
 
-Project members:
+**Project members:**
 
 This project was developed by Robinson Luis Campo Charris, Matthieu Navarro Chamucero.
 
-Adviser:
+**Adviser:**
 
 PhD. Juan Carlos Velez Diaz
