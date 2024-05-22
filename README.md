@@ -8,13 +8,13 @@ Our method for automatically labeling objects in panoramic images leverages adva
 This photograph used in the readme of this project comes from SpyroSoft
 
 ## Main Features
-## -Automated Labeling: Significantly reduces the need for manual intervention by automating the labeling of objects in panoramic images, enhancing productivity and consistency.
+**-Automated Labeling:** Significantly reduces the need for manual intervention by automating the labeling of objects in panoramic images, enhancing productivity and consistency.
 
-## -State-of-the-Art Computer Vision: Implements advanced techniques such as transfer learning and fine-tuning to achieve high accuracy in object classification.
+**-State-of-the-Art Computer Vision:** Implements advanced techniques such as transfer learning and fine-tuning to achieve high accuracy in object classification.
 
-## -High Efficiency and Precision: Focuses on optimizing both efficiency and precision in detecting and identifying objects within urban and traffic settings, ensuring reliable performance.
+**-High Efficiency and Precision:** Focuses on optimizing both efficiency and precision in detecting and identifying objects within urban and traffic settings, ensuring reliable performance.
 
-## -Robust Training Framework: Utilizes renowned models like YOLOv8 and Fast R-CNN, leveraging their strengths for comprehensive training and fine-tuning of the detection algorithms.
+**-Robust Training Framework:** Utilizes renowned models like YOLOv8 and Fast R-CNN, leveraging their strengths for comprehensive training and fine-tuning of the detection algorithms.
 
 ## Project Block Diagram
 Certainly! Here is a project block diagram for an automated object labeling system using YOLOv8 and Fast R-CNN with PyTorch:
