@@ -24,7 +24,8 @@ Certainly! Here is a project block diagram for an automated object labeling syst
 # Method Results with YOLOv8:
 
 ![image](https://github.com/rlcampo/Autolalabeling-For-Objets-In-Panoramic-Images/assets/110200669/91903c7b-3ec3-4b37-a3b7-32464115e193)
-![image](https://github.com/rlcampo/Autolalabeling-For-Objets-In-Panoramic-Images/assets/110200669/141424e1-6040-4f13-a3ca-8b3453e64677)
+![image](https://github.com/rlcampo/Autolalabeling-For-Objets-In-Panoramic-Images/assets/110200669/f9638a95-36bb-48d7-ab1e-ce4886c581e5)
+
 
 Here you can add a description of the results obtained using YOLOv8.
 
