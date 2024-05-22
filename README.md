@@ -74,7 +74,7 @@ If you want to contribute to this project, follow these steps:
 - Photos taken from: SpyroSoft
 - Database taken from: Mappillary
 
-## Credits:##
+## Credits:
 
 **Project members:**
 
